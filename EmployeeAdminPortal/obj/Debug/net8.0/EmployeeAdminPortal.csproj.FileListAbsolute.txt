@@ -140,3 +140,9 @@ C:\Users\USER\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net
 C:\Users\USER\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.pdb
 C:\Users\USER\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.genruntimeconfig.cache
 C:\Users\USER\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\ref\EmployeeAdminPortal.dll
+C:\Users\USER\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.sourcelink.json
+C:\Users\USER\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USER\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USER\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USER\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
